@@ -6,4 +6,4 @@ some code copy from [megvii-research/PMRID](https://github.com/megvii-research/P
 
 generate_list.py is for generate list for trainning
 
-main.py is for train and test dataset
+main.py is for training and testing dataset
